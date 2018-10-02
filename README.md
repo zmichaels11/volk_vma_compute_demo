@@ -1,5 +1,5 @@
 # Minimum Vulkan Compute Shader Demo + Vulkan Memory Allocator
-Demo executes a single compute shader and exits
+Demo executes a single compute shader and exits.
 
 * Uses [Volk](https://github.com/zeux/volk) as a Vulkan Loader
 * Uses [Vulkan Memory Allocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator) as a Memory Manager
